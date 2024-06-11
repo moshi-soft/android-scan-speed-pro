@@ -20,7 +20,9 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ScanSpeedPro"
-include(":app, :scanner, :netspeed, :visitingcard")
+include(":app")
 include(":scanner")
 include(":netspeed")
 include(":visitingcard")
+include(":test")
+include(":abcd")

@@ -68,7 +68,8 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.androidx.room.runtime)
-    implementation(libs.androidx.room.compiler)
+    annotationProcessor(libs.androidx.room.compiler)
+//    implementation(libs.androidx.room.compiler)
     implementation(libs.ui)
     implementation(libs.androidx.material)
     implementation(libs.androidx.lifecycle.runtime.ktx)

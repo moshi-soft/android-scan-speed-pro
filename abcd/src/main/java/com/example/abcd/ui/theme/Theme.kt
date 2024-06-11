@@ -1,4 +1,4 @@
-package com.example.scanner.ui.theme
+package com.example.abcd.ui.theme
 
 import android.app.Activity
 import android.os.Build

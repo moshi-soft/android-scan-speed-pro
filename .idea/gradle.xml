@@ -9,12 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app, " />
-            <option value="$PROJECT_DIR$/app, /scanner, " />
-            <option value="$PROJECT_DIR$/app, /scanner, /netspeed, " />
-            <option value="$PROJECT_DIR$/app, /scanner, /netspeed, /visitingcard" />
+            <option value="$PROJECT_DIR$/abcd" />
+            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/netspeed" />
             <option value="$PROJECT_DIR$/scanner" />
+            <option value="$PROJECT_DIR$/test" />
             <option value="$PROJECT_DIR$/visitingcard" />
           </set>
         </option>
